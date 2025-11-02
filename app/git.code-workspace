@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../git"
+		},
+		{
+			"path": "../../../../OneDrive/Desktop/CSS_GRID_SANDBOX"
+		},
+		{
+			"path": "../../../Hotel_web.html"
+		},
+		{
+			"path": "../../../My_Websites"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My_Websites"
+	}
+}
